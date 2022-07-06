@@ -1,0 +1,29 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.width-half{
+    width: 50%;
+    padding-left:5%;
+
+}
+.width-half img{
+    width: 50%;
+}
+.btn{
+    text-decoration: none;
+    background-color:rgb(255, 212, 21);
+    padding: 7px 30px;
+    font: weight 700;
+
+    border-radius: 10px;
+    
+}
